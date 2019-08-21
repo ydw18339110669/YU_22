@@ -1,7 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eebeed97-0a3a-47e6-9d4a-e74452aaee68" name="Default Changelist" comment="" />
+    <list default="true" id="eebeed97-0a3a-47e6-9d4a-e74452aaee68" name="Default Changelist" comment="模板代码">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/db.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/log.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/log1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c10.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c241.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c251.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c260.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c271.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c281.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c290.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c300.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c311.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c321.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c331.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c340.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c351.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c361.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c371.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c380.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c391.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c400.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c411.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c421.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c430.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c441.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c451.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c461.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c470.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c481.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c501.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c521.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c541.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c561.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c581.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c601.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c621.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c641.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c661.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c681.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c701.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c711.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c721.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c731.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c741.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c751.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c761.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c771.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c781.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c791.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c801.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c811.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c821.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c831.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c851.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c871.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c891.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c901.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c911.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca01.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca11.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca21.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cc0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cd1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ce1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/SchemaUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/Txt2Parquet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/Utils2Type.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/need_1/parquet2json.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/YU_22.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/SchemaUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/SchemaUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Utils2Type$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Utils2Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/need_1/parquet2json$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/need_1/parquet2json.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,16 +204,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="440">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/ETL/Txt2Parquet.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2060">
+              <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+              <folding>
+                <element signature="e#17#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/need_1/parquet2json.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#20#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,11 +246,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/ETL/SchemaUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/ETL/Utils2Type.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/ETL/Txt2Parquet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/need_1/JDBCUtiles.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/need_1/parquet2json.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.1-bin\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="YU_22" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="178" />
-    <option name="y" value="9" />
+    <option name="x" value="449" />
+    <option name="y" value="26" />
     <option name="width" value="1138" />
-    <option name="height" value="719" />
+    <option name="height" value="713" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -50,6 +299,50 @@
               <item name="YU_22" type="b2602c69:ProjectViewProjectNode" />
               <item name="YU_22" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="YU_22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YU_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YU_22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YU_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YU_22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YU_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YU_22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YU_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YU_22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YU_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ETL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YU_22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YU_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="need_1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -61,9 +354,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../g3fromgp22" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Git\GP22\YU_22\src\main\scala\com\ETL" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,6 +379,43 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.parquet2json">
+    <configuration name="Txt2Parquet" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.ETL.Txt2Parquet" />
+      <module name="YU_22" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Administrator\Desktop\资料\spark文档\Spark用户画像分析\2016-10-01_06_p1_invalid.1475274123982.log C:\Users\Administrator\Desktop\资料\spark文档\Spark用户画像分析\res1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ETL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parquet2json" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.need_1.parquet2json" />
+      <module name="YU_22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.need_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.parquet2json" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,7 +426,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566217343190</updated>
-      <workItem from="1566217345243" duration="1513000" />
+      <workItem from="1566217345243" duration="1959000" />
+      <workItem from="1566267612601" duration="14094000" />
+      <workItem from="1566306538227" duration="3332000" />
+      <workItem from="1566350401795" duration="1480000" />
     </task>
     <task id="LOCAL-00001" summary="模板代码">
       <created>1566217447720</created>
@@ -96,44 +438,55 @@
       <option name="project" value="LOCAL" />
       <updated>1566217447720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="模板代码">
+      <created>1566218958401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566218958401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1513000" />
+    <option name="totallyTimeSpent" value="20865000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="178" y="9" width="1138" height="719" extended-state="0" />
+    <frame x="440" y="28" width="1138" height="713" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495379" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25785583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.501634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32792208" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32994455" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32994455" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,20 +496,136 @@
     <MESSAGE value="模板代码" />
     <option name="LAST_COMMIT_MESSAGE" value="模板代码" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/YU_22$Txt2Parquet.ic" NAME="Txt2Parquet Coverage Results" MODIFIED="1566281434311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ETL.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/ETL/SchemaUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/ETL/Utils2Type.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/need_1/JDBCUtiles.scala" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/ETL/Txt2Parquet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2060">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+          <folding>
+            <element signature="e#17#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/need_1/parquet2json.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#20#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>YU_22</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
