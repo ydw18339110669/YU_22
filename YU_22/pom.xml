@@ -179,6 +179,13 @@
             <version>1.3.0</version>
         </dependency>
 
+        <!--加载config文件-->
+        <dependency>
+            <groupId>com.typesafe</groupId>
+            <artifactId>config</artifactId>
+            <version>1.3.1</version>
+        </dependency>
+
 
 
     </dependencies>
