@@ -20,6 +20,9 @@ object MediaMSA {
     val splited= dsfile.map(x => x.split("\t",x.length)).filter(_.length>=5).map(arr =>{
       Demo(arr(4),arr(1))
     })
+//val splited= dsfile.map(x => x.split("\\s",x.length)).map(arr =>{
+//  Demo(arr(4),arr(1))
+//})
     splited.createOrReplaceTempView("demo")
 //   spark.sql("select * from demo").show()
 
